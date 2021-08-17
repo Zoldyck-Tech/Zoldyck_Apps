@@ -1,0 +1,21 @@
+{
+    "name": "Sale Order Double Approval",
+    "summary": """Sale double approval""",
+    'sequence': -100,
+    "version": "14.0.1.0.2",
+    'category': 'Sales',
+    "license": "LGPL-3",
+    "author": "Zoldyck-Tech",
+    'maintainer': "Zoldyck",
+    "depends": ['sale','base',],
+    "data": [
+        "views/views.xml",
+        "views/comp.xml",
+    ],
+    'demo': [],
+    'qweb': [],
+    'images': ['static/description/banner.gif'],
+    'installable': True,
+    'application': True,
+    'auto_install': False,
+}
