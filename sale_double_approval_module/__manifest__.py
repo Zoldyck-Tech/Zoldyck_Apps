@@ -5,7 +5,7 @@
     "version": "14.0.1.0.2",
     'category': 'Sales',
     "license": "LGPL-3",
-    "author": "Zoldyck-Tech",
+    "author": "Zoldyck-Tech,Gunalan D",
     'maintainer': "Zoldyck",
     "depends": ['sale','base',],
     "data": [
